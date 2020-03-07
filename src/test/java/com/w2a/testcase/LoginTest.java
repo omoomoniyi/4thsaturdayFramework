@@ -12,7 +12,7 @@ public class LoginTest extends TestBase {
 	public void validLogin () throws InterruptedException {
 		
 		click("loginpage_XPATH");
-		
+//		My git test
 		Thread.sleep(2000);
 		driver.findElement(By.id(OR.getProperty("email_ID"))).sendKeys(OR.getProperty("email_TEXT"));
 		driver.findElement(By.id(OR.getProperty("password_ID"))).sendKeys(OR.getProperty("password_TEXT"));		
