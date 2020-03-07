@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11294" started-at="2020-03-04T09:16:13Z" finished-at="2020-03-04T09:16:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11294" started-at="2020-03-04T09:16:13Z" finished-at="2020-03-04T09:16:25Z">
+      <class name="com.w2a.testcase.JumiaTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.w2a.testcase.JumiaTest@58695725]" name="setUp" is-config="true" duration-ms="42701" started-at="2020-03-04T10:15:31Z" finished-at="2020-03-04T10:16:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ValidLogin()[pri:0, instance:com.w2a.testcase.JumiaTest@58695725]" name="ValidLogin" duration-ms="11247" started-at="2020-03-04T10:16:14Z" finished-at="2020-03-04T10:16:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.w2a.testcase.JumiaTest@58695725]" name="tearDown" is-config="true" duration-ms="2077" started-at="2020-03-04T10:16:25Z" finished-at="2020-03-04T10:16:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.w2a.testcase.JumiaTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
